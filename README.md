@@ -1,6 +1,7 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ryo-kagawa" />
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=ryo-kagawa)](https://github.com/ryo-kagawa)
+[![followers](https://img.shields.io/github/followers/ryo-kagawa?style=flat)](https://github.com/ryo-kagawa?tab=followers)
+[![stars](https://img.shields.io/github/stars/ryo-kagawa?style=flat)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-kagawa)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi there 👋
 
@@ -50,18 +51,3 @@
 |2014/02|Ｃ言語プログラミング能力認定試験 ２級|
 |2014/03|Ｊａｖａ プログラミング能力認定試験 ２級|
 |2014/08|普通自動車免許|
-
-<!--
-**ryo-kagawa/ryo-kagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
