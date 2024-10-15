@@ -1,7 +1,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=ryo-kagawa)](https://github.com/ryo-kagawa)
 [![followers](https://img.shields.io/github/followers/ryo-kagawa?style=flat)](https://github.com/ryo-kagawa?tab=followers)
 [![stars](https://img.shields.io/github/stars/ryo-kagawa?style=flat)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-kagawa&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-kagawa&column=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi there 👋
 
