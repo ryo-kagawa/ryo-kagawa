@@ -1,7 +1,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=ryo-kagawa)](https://github.com/ryo-kagawa)
 [![followers](https://img.shields.io/github/followers/ryo-kagawa?style=flat)](https://github.com/ryo-kagawa?tab=followers)
 [![stars](https://img.shields.io/github/stars/ryo-kagawa?style=flat)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-kagawa)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-kagawa&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi there 👋
 
@@ -11,7 +11,7 @@
 - I'm currently learning English & SaaS on AWS
 
 ## 🌱 Skills
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,bash,c,cpp,cs,css,discord,docker,dotnet,eclipse,electron,git,github,gitlab,gmail,go,gradle,html,java,js,jenkins,jest,jquery,kafka,kubernetes,linux,md,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,powershell,prisma,rails,react,redhat,redis,redux,regex,ruby,sass,spring,sqlite,ts,ubuntu,unity,visualstudio,vite,vscode,webpack" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=aws,bash,c,cpp,cs,css,discord,docker,dotnet,eclipse,electron,git,github,gitlab,gmail,go,gradle,html,java,js,jenkins,jest,jquery,kafka,kubernetes,linux,md,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,powershell,prisma,rails,react,redhat,redis,redux,regex,ruby,sass,spring,sqlite,ts,ubuntu,unity,visualstudio,vite,vscode,webpack" />
 
 ## 🏃‍♀️ Activities
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=ryo-kagawa&layout=compact&theme=transparent" />
