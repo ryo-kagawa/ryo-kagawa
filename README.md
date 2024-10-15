@@ -14,8 +14,8 @@
 <img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,bash,c,cpp,cs,css,discord,docker,dotnet,eclipse,electron,git,github,gitlab,gmail,go,gradle,html,java,js,jenkins,jest,jquery,kafka,kubernetes,linux,md,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,powershell,prisma,rails,react,redhat,redis,redux,regex,ruby,sass,spring,sqlite,ts,ubuntu,unity,visualstudio,vite,vscode,webpack" />
 
 ## 🏃‍♀️ Activities
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=ryo-kagawa&layout=compact" />
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-kagawa&layout=compact" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=ryo-kagawa&layout=compact&theme=transparent" />
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-kagawa&layout=compact&theme=transparent" />
 
 ## Work Experience
 
