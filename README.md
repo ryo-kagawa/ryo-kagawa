@@ -74,7 +74,7 @@
 |17|2019/12|2020/02|6|暗号資産取引|新規開発|バッチでの帳票出力|プログラマー|インフラサイド<ul><li>MySQL</li><li>Redis</li><li>Docker</li><li>Minikube</li><li>LocalStack（S3）</li></ul>サーバーサイド<ul><li>Go</li><li>SQL Boiler</li></ul>クライアントサイド<ul><li>HTML（Reactで生成）</li><li>TypeScript</li><li>Sass（SCSS）</li><li>React</li></ul>||
 |18|2020/02|2022/12|2|FX取引|新規開発|MetaTrader 5との通信<br />既存システム連携|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>C#</li><li>Java</li><li>MetaTrader 5 SDK</li><li>Spring boot</li><li>SAStruts</li><li>Apache Kafka</li></ul>クライアントサイド<ul><li>HTML（JSPで生成）</li><li>CSS</li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った<br />5つのマイクロサーバーと2つの連携先システムに関わりました<br />MetaTrader関連のみWindows Server用のDockerコンテナ|
 |19|2020/07|2020/12|2|オンライン会議ツール|新規開発|ブラウザでの会議ツール|プログラマー|サーバーサイド<ul><li>MySQL</li><li>Go</li><li>Gin</li></ul>クライアントサイド<ul><li>HTML</li><li>JavaScript</li><li>Skyway</li></ul>|技術検証のみ|
-|20|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|インフラサイド<ul><li>Docker</li><li>CentOS</li><li>Red Hat Enterprise Linux</li><li>Windows Server</li></ul>サーバーサイド<ul><li>Go</li><li>Echo</li><li>twilio-go</li><li>gRPC</li><li>gRPC-Gateway</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul>||
+|20|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|開発環境<ul><li>Dev Container</li></ul>インフラサイド<ul><li>Docker</li><li>CentOS</li><li>Red Hat Enterprise Linux</li><li>Windows Server</li></ul>サーバーサイド<ul><li>Go</li><li>Echo</li><li>twilio-go</li><li>gRPC</li><li>gRPC-Gateway</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul>||
 |21|2021/01|2021/02|2|LINEパッケージ|新規開発||プログラマー|サーバーサイド<ul><li>Go</li><li>Gin</li></ul>||
 |22|2021/06|2024/04|7|資産運用アドバイスシステム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>GraphQL</li></ul>|ヘルプで入った|
 |23|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>Internet Information Services</li><li>C#</li><li>.NET Core</li><li>ASP.NET Core</li><li>Open API Generator</li></ul>クライアントサイド<ul><li>HTML（ネイティブとReactが生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>bignumber.js</li></ul>Excel<ul><li>C#</li><li>Open API Generator</li><li>Excel DNA</li><li>.NET Framework</li><li>WPF</li><li>Win32 API</li></ul>|ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた<br />サーバーは他社連携部分のサーバーのみ<br />フロントはチャートの内部ロジック以外全て<bt />Excelは全て|
@@ -82,10 +82,10 @@
 |25|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.21の案件と同じ|
 |26|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Spring boot</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った|
 |27|2023/06|2024/01|9|衛星通信の位置情報セキュリティー|新規開発||不明|なし|役に立てませんでした|
-|28|2024/05|2024/05|10|書店の予約管理|アップデート||プログラマー||ほぼ仕様が固まった状態で実装とテストのみを行いました|
-|29|2024/05|2024/12<br />現在継続中|10|医療系|新規開発|LINEチャットボット<br />予約システム<br />AIチャットボット|プログラマー||新規開発から参画し、現在も継続してアップデートを行っています|
-|30|2024/08|2024/08|11|医療系|アップデート||プログラマー||ヘルプで対応を行いました|
-|31|2024/12|2024/12|11|医療系|アップデート||プログラマー||No.29の案件と同じでヘルプで対応を行いました|
+|28|2024/05|2024/05|10|書店の予約管理|アップデート||プログラマー|開発環境<ul>Dev Container</ul>サーバーサイド<ul><li>MySQL</li><li>Ruby</li><li>Rails</li></ul>クライアントサイド<ul><li>HTML（Railsで生成）</li><li>CSS</li><li>JavaScript</li></li>|ほぼ仕様が固まった状態で実装とテストのみを行いました<br />時間があったのでDev Container化を行いました</ br>|
+|29|2024/05|2025/01<br />現在継続中|10|医療系|新規開発|LINEチャットボット<br />予約システム<br />AIチャットボット|プログラマー|開発環境<ul><li>Dev Container</li><li>MySQL</li><li>Turborepo</li></ul>インフラサイド<ul><li>AWS CDK</li><li>AWS S3</li><li>AWS CloudFront</li><li>AWS Lambda</li><li>AWS Cognito</li><li>AWS RDS（本番のみ）</li><li>AWS RDB（開発・検証のみ）</li></ul>サーバーサイド<ul><li>TypeScript</li><li>Next.js</li></ul>クライアントサイド<ul><li>HTML（Next.jsで生成）</li><li></li><li>Tailwind</li><li>Next UI</li></ul>|新規開発から参画し、現在も継続してアップデートを行っています<br />インフラはサポート<br />Next.jsの実装はほぼ担当|
+|30|2024/08|2024/08|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|ヘルプで対応を行いました|
+|31|2024/12|2024/12|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|No.29の案件と同じでヘルプで対応を行いました|
 
 備考
 - 未記載の部分は書けない理由があります
