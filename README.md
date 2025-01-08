@@ -67,7 +67,7 @@
 |10||2019/07|4|証券取引システム|リニューアル|フロント側を作成|プログラマー|フロントエンド<ul><li>HTML（Reactで生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>jQuery UI</li><li>bignumber.js</li></ul>|全機能を最終的に担当|
 |11||2019/07|4|証券取引システム|リニューアル|ガラケー用フロントを作成|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>C#</li><li>Razor</li><li>.NET Framework</li><li>ASP .NET</li></ul>フロントエンド<ul><li>Compact HTML（Razorで生成）</li><li>Pure AXIS</li></ul>|個人的にガラケー自体が未知の媒体かつ情報を集めるのに苦労した|
 |12|2017/06|2017/06|2|ICOトークン開発|新規開発|テストのみを担当|テスター|なし||
-|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>|No.6,8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
+|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>|No.8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
 |14|||2|投資ツール|アップデート|Excelで作られたツールの高速化|テスター|<ul><li>Excel</li><li>VBA</li><ul>|テスターだが、実装にも携わった|
 |15|2019/10|2020/01|4|投資ツール|新規開発||プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.13のシステム移行<br />Oanda APIから取得したデータのみを扱うためサーバーはない|
 |16|2019/10|2019/12|5|金融系|||||守秘義務契約により、公開できる情報がありません||
@@ -79,13 +79,13 @@
 |22|2021/06|2024/04|7|資産運用アドバイスシステム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>GraphQL</li></ul>|ヘルプで入った|
 |23|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>Internet Information Services</li><li>C#</li><li>.NET Core</li><li>ASP.NET Core</li><li>Open API Generator</li></ul>クライアントサイド<ul><li>HTML（ネイティブとReactが生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>bignumber.js</li></ul>Excel<ul><li>C#</li><li>Open API Generator</li><li>Excel DNA</li><li>.NET Framework</li><li>WPF</li><li>Win32 API</li></ul>|ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた<br />サーバーは他社連携部分のサーバーのみ<br />フロントはチャートの内部ロジック以外全て<bt />Excelは全て|
 |24|||8|債権取引システム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>Open API Generator</li></ul>|ヘルプで入った|
-|25|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.21の案件と同じ|
+|25|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.15の案件と同じ|
 |26|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Spring boot</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った|
 |27|2023/06|2024/01|9|衛星通信の位置情報セキュリティー|新規開発||不明|なし|役に立てませんでした|
 |28|2024/05|2024/05|10|書店の予約管理|アップデート||プログラマー|開発環境<ul>Dev Container</ul>サーバーサイド<ul><li>MySQL</li><li>Ruby</li><li>Rails</li></ul>クライアントサイド<ul><li>HTML（Railsで生成）</li><li>CSS</li><li>JavaScript</li></li>|ほぼ仕様が固まった状態で実装とテストのみを行いました<br />時間があったのでDev Container化を行いました</ br>|
 |29|2024/05|2025/01<br />現在継続中|10|医療系|新規開発|LINEチャットボット<br />予約システム<br />AIチャットボット|プログラマー|開発環境<ul><li>Dev Container</li><li>MySQL</li><li>Turborepo</li></ul>インフラサイド<ul><li>AWS CDK</li><li>AWS S3</li><li>AWS CloudFront</li><li>AWS Lambda</li><li>AWS Cognito</li><li>AWS RDS（本番のみ）</li><li>AWS RDB（開発・検証のみ）</li></ul>サーバーサイド<ul><li>TypeScript</li><li>Next.js</li><li>openai-node</li></ul>クライアントサイド<ul><li>HTML（Next.jsで生成）</li><li></li><li>Tailwind</li><li>Next UI</li></ul>|新規開発から参画し、現在も継続してアップデートを行っています<br />インフラはサポート<br />Next.jsの実装はほぼ担当|
 |30|2024/08|2024/08|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|ヘルプで対応を行いました|
-|31|2024/12|2024/12|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|No.29の案件と同じでヘルプで対応を行いました|
+|31|2024/12|2024/12|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|No.30の案件と同じ<br />ヘルプで対応を行いました|
 
 備考
 - 未記載の部分は書けない理由があります
