@@ -67,7 +67,7 @@
 |10||2019/07|4|証券取引システム|リニューアル|フロント側を作成|プログラマー|フロントエンド<ul><li>HTML（Reactで生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>jQuery UI</li><li>bignumber.js</li></ul>|全機能を最終的に担当|
 |11||2019/07|4|証券取引システム|リニューアル|ガラケー用フロントを作成|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>C#</li><li>Razor</li><li>.NET Framework</li><li>ASP .NET</li></ul>フロントエンド<ul><li>Compact HTML（Razorで生成）</li><li>Pure AXIS</li></ul>|個人的にガラケー自体が未知の媒体かつ情報を集めるのに苦労した|
 |12|2017/06|2017/06|2|ICOトークン開発|新規開発|テストのみを担当|テスター|なし||
-|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Docker</li><li>Docker Compose</li><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>|No.6,8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
+|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>|No.6,8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
 |14|2019/10|2020/01|2|投資ツール|アップデート|Excelで作られたツールの高速化|テスター|<ul><li>Excel</li><li>VBA</li><ul>|テスターだが、実装にも携わった|
 |15|2019/10|2019/12|5|金融系|||||守秘義務契約により、公開できる情報がありません||
 |16|2019/12|2020/02|6|暗号資産取引|新規開発|バッチでの帳票出力|プログラマー|インフラサイド<ul><li>MySQL</li><li>Redis</li><li>Docker</li><li>Minikube</li><li>LocalStack（S3）</li></ul>サーバーサイド<ul><li>Go</li><li>SQL Boiler</li></ul>クライアントサイド<ul><li>HTML（Reactで生成）</li><li>TypeScript</li><li>Sass（SCSS）</li><li>React</li></ul>||
