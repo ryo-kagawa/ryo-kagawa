@@ -61,21 +61,21 @@
 |4|2015/03|2015/03|1|Windowsサーバー管理ツール|アップデート||プログラマー|なし|既存仕様把握後にSFAツール開発を行うことになり実質的に作業は行っていません|
 |5|2015/03|2015/06|1|SFAツール|モック作成|営業からヒアリングした内容から仕様を考え実装|プログラマー|フロントエンド<ul><li>HTML</li><li>CSS（LESSで生成）</li><li>TypeScript</li><li>jQuery</li><li>jQuery UI</li></ul>|モック時点ではバックエンドは用意しませんでした|
 |6|2015/08|2015/11|2|金融向け顧客管理システム|アップデート|口座開設リニューアル<br />マイナンバー対応|プログラマー|バックエンド<ul><li>CentOS</li><li>MySQL</li><li>Java</li><li>JSP</li><li>Apach HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>フロントエンド<ul><li>HTML（JSPで生成）</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|他社のEFOを組み込むと正常に動作しなくなるため、ミニファイされたJavaScriptファイル調査が特に苦労した|
-|7|2015/02|2016/05|3|ECサイトの管理ツール|アップデート|パフォーマンス改善<br />外部ポイント連携|プログラマー|バックエンド<ul><li>H2 Database</li><li>Java</li><li>JSP</li><li>Apache Flex</li><li>Apache Tomcat</li><li>SAStruts</li></ul>フロントエンド<ul><li>HTML（JSPで生成）</li><li>CSS</li><li>JavaScript</li></ul>|画面によって技術スタックがバラバラでした|
+|7|2015/02|2016/05|3|ECサイトの管理ツール|アップデート|パフォーマンス改善<br />外部ポイント連携|プログラマー|バックエンド<ul><li>H2 Database</li><li>Java</li><li>JSP</li><li>Apache Flex</li><li>Apache Tomcat</li></ul>フロントエンド<ul><li>HTML（JSPで生成）</li><li>CSS</li><li>JavaScript</li></ul>|画面によって技術スタックがバラバラでした|
 |8|2016/06|2017/07|2|金融向け顧客管理システム|アップデート|スマホ対応<br />寄付金対応<br />アフィリエイト対応<br />決済サービス変更<br />管理画面リニューアル<br />自動ログイン対応<br />法令対応<br />クレジットカード連携<br />取引修正|プログラマー|バックエンド<ul><li>CentOS</li><li>MySQL</li><li>Java</li><li>JSP</li><li>Apach HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>フロントエンド<ul><li>HTML（JSPで生成）</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|No.6の案件と同じ|
 |9|2017/03|2019/07|4|証券取引システム|リニューアル|フロント側を作成|プログラマー|フロントエンド<ul><li>HTML（Reactで生成）</li><li>CSS</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>jQuery UI</li></ul>|一部機能を担当|
 |10||2019/07|4|証券取引システム|リニューアル|フロント側を作成|プログラマー|フロントエンド<ul><li>HTML（Reactで生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>jQuery UI</li><li>bignumber.js</li></ul>|全機能を最終的に担当|
 |11||2019/07|4|証券取引システム|リニューアル|ガラケー用フロントを作成|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>C#</li><li>Razor</li><li>.NET Framework</li><li>ASP .NET</li></ul>フロントエンド<ul><li>Compact HTML（Razorで生成）</li><li>Pure AXIS</li></ul>|個人的にガラケー自体が未知の媒体かつ情報を集めるのに苦労した|
 |12|2017/06|2017/06|2|ICOトークン開発|新規開発|テストのみを担当|テスター|なし||
-|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Docker</li><li>Docker Compose</li><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li></ul>|No.6,8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
+|13|2019/08|2019/09|2|顧客管理システム|AWS移行|Docker化を担当|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Docker</li><li>Docker Compose</li><li>Java</li><li>Apache HTTP Server</li><li>Apache Tomcat</li><li>SAStruts</li></ul>|No.6,8の案件と同じ、その後もアップデート時に何度かヘルプとしてスポットで数日間作業で呼ばれた|
 |14|2019/10|2020/01|2|投資ツール|アップデート|Excelで作られたツールの高速化|テスター|<ul><li>Excel</li><li>VBA</li><ul>|テスターだが、実装にも携わった|
 |15|2019/10|2019/12|5|金融系|||||守秘義務契約により、公開できる情報がありません||
 |16|2019/12|2020/02|6|暗号資産取引|新規開発|バッチでの帳票出力|プログラマー|インフラサイド<ul><li>MySQL</li><li>Redis</li><li>Docker</li><li>Minikube</li><li>LocalStack（S3）</li></ul>サーバーサイド<ul><li>Go</li><li>SQL Boiler</li></ul>クライアントサイド<ul><li>HTML（Reactで生成）</li><li>TypeScript</li><li>Sass（SCSS）</li><li>React</li></ul>||
-|17|2020/02|2022/12|2|FX取引|新規開発|MetaTrader 5との通信<br />既存システム連携|プログラマー||ヘルプで入った|
-|18|2020/07|2020/12|2|オンライン会議ツール|新規開発|ブラウザでの会議ツール|プログラマー|||
-|19|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|||
-|20|2021/01|2021/02|2|LINEパッケージ|新規開発||プログラマー|||
-|21|2021/06|2024/04|4|投資ツール|新規開発||プログラマー|||
+|17|2020/02|2022/12|2|FX取引|新規開発|MetaTrader 5との通信<br />既存システム連携|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>C#</li><li>Java</li><li>MetaTrader 5 SDK</li><li>Spring boot</li><li>SAStruts</li><li>Apache Kafka</li></ul>クライアントサイド<ul><li>HTML（JSPで生成）</li><li>CSS</li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った<br />5つのマイクロサーバーと2つの連携先システムに関わりました<br />MetaTrader関連のみWindows Server用のDockerコンテナ|
+|18|2020/07|2020/12|2|オンライン会議ツール|新規開発|ブラウザでの会議ツール|プログラマー|サーバーサイド<ul><li>MySQL</li><li>Go</li><li>Gin</li></ul>クライアントサイド<ul><li>HTML</li><li>JavaScript</li><li>Skyway</li></ul>|技術検証のみ|
+|19|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|インフラサイド<ul><li>Docker</li><li>CentOS</li><li>Red Hat Enterprise Linux</li><li>Windows Server</li></ul>サーバーサイド<ul><li>Go</li><li>Echo</li><li>twilio-go</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul>||
+|20|2021/01|2021/02|2|LINEパッケージ|新規開発||プログラマー|サーバーサイド<ul><li>Go</li><li>Gin</li></ul>||
+|21|2021/06|2024/04|4|投資ツール|新規開発||プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|Oanda APIから取得したデータのみを扱うためサーバーはない|
 |22|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー||ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた|
 |23|||7|金融取引システム|新規開発|WEB取引システムのフロント|プログラマー||ヘルプで入った|
 |24|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー||No.21の案件と同じ|
