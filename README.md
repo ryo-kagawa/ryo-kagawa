@@ -78,7 +78,7 @@
 |21|2021/06|2024/04|4|投資ツール|新規開発||プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|Oanda APIから取得したデータのみを扱うためサーバーはない|
 |22|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>Internet Information Services</li><li>C#</li><li>.NET Core</li><li>ASP.NET Core</li><li>Open API Generator</li></ul>クライアントサイド<ul><li>HTML（ネイティブとReactが生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>bignumber.js</li></ul>Excel<ul><li>C#</li><li>Open API Generator</li><li>Excel DNA</li><li>.NET Framework</li><li>WPF</li><li>Win32 API</li></ul>|ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた<br />サーバーは他社連携部分のサーバーのみ<br />フロントはチャートの内部ロジック以外全て<bt />Excelは全て|
 |23|||7|資産運用アドバイスシステム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>GraphQL</li></ul>|ヘルプで入った|
-|24|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー||No.21の案件と同じ|
+|24|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.21の案件と同じ|
 |25|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー||ヘルプで入った|
 |26|2023/06|2024/01|8|衛星通信の位置情報セキュリティー|新規開発||なんだろう？||役に立てませんでした|
 |27|2024/05|2024/05|9|書店の予約管理|アップデート||プログラマー||ほぼ仕様が固まった状態で実装とテストのみを行いました|
