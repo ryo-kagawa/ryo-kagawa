@@ -79,8 +79,8 @@
 |22|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>Internet Information Services</li><li>C#</li><li>.NET Core</li><li>ASP.NET Core</li><li>Open API Generator</li></ul>クライアントサイド<ul><li>HTML（ネイティブとReactが生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>bignumber.js</li></ul>Excel<ul><li>C#</li><li>Open API Generator</li><li>Excel DNA</li><li>.NET Framework</li><li>WPF</li><li>Win32 API</li></ul>|ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた<br />サーバーは他社連携部分のサーバーのみ<br />フロントはチャートの内部ロジック以外全て<bt />Excelは全て|
 |23|||7|資産運用アドバイスシステム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>GraphQL</li></ul>|ヘルプで入った|
 |24|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|No.21の案件と同じ|
-|25|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー||ヘルプで入った|
-|26|2023/06|2024/01|8|衛星通信の位置情報セキュリティー|新規開発||なんだろう？||役に立てませんでした|
+|25|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>Java</li><li>Spring boot</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った|
+|26|2023/06|2024/01|8|衛星通信の位置情報セキュリティー|新規開発||不明||役に立てませんでした|
 |27|2024/05|2024/05|9|書店の予約管理|アップデート||プログラマー||ほぼ仕様が固まった状態で実装とテストのみを行いました|
 |28|2024/05|2024/12<br />現在継続中|10|医療系|新規開発|LINEチャットボット<br />予約システム<br />AIチャットボット|プログラマー||新規開発から参画し、現在も継続してアップデートを行っています|
 |29|2024/08|2024/08|11|医療系|アップデート||プログラマー||ヘルプで対応を行いました|
