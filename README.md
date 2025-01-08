@@ -73,11 +73,11 @@
 |16|2019/12|2020/02|6|暗号資産取引|新規開発|バッチでの帳票出力|プログラマー|インフラサイド<ul><li>MySQL</li><li>Redis</li><li>Docker</li><li>Minikube</li><li>LocalStack（S3）</li></ul>サーバーサイド<ul><li>Go</li><li>SQL Boiler</li></ul>クライアントサイド<ul><li>HTML（Reactで生成）</li><li>TypeScript</li><li>Sass（SCSS）</li><li>React</li></ul>||
 |17|2020/02|2022/12|2|FX取引|新規開発|MetaTrader 5との通信<br />既存システム連携|プログラマー|インフラサイド<ul><li>Docker</li><li>Docker Compose</li></ul>サーバーサイド<ul><li>C#</li><li>Java</li><li>MetaTrader 5 SDK</li><li>Spring boot</li><li>SAStruts</li><li>Apache Kafka</li></ul>クライアントサイド<ul><li>HTML（JSPで生成）</li><li>CSS</li>JavaScript</li><li>jQuery</li><li>jQuery UI</li></ul>|ヘルプで入った<br />5つのマイクロサーバーと2つの連携先システムに関わりました<br />MetaTrader関連のみWindows Server用のDockerコンテナ|
 |18|2020/07|2020/12|2|オンライン会議ツール|新規開発|ブラウザでの会議ツール|プログラマー|サーバーサイド<ul><li>MySQL</li><li>Go</li><li>Gin</li></ul>クライアントサイド<ul><li>HTML</li><li>JavaScript</li><li>Skyway</li></ul>|技術検証のみ|
-|19|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|インフラサイド<ul><li>Docker</li><li>CentOS</li><li>Red Hat Enterprise Linux</li><li>Windows Server</li></ul>サーバーサイド<ul><li>Go</li><li>Echo</li><li>twilio-go</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul>||
+|19|2020/07|2024/12|2|二段階認証システム|新規開発|絵文字を利用した認証システム<br />次のパターンで提供<ul><li>顧客サーバーに合わせた実行ファイル</li><li>Docker</li><li>ASPとしてGCP運用</li></ul>|プログラマー|インフラサイド<ul><li>Docker</li><li>CentOS</li><li>Red Hat Enterprise Linux</li><li>Windows Server</li></ul>サーバーサイド<ul><li>Go</li><li>Echo</li><li>twilio-go</li><li>gRPC</li><li>gRPC-Gateway</li></ul>クライアントサイド<ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul>||
 |20|2021/01|2021/02|2|LINEパッケージ|新規開発||プログラマー|サーバーサイド<ul><li>Go</li><li>Gin</li></ul>||
 |21|2021/06|2024/04|4|投資ツール|新規開発||プログラマー|クライアントサイド<ul><li>Node.js</li><li>Electron</li><li>Vue</li></ul>|Oanda APIから取得したデータのみを扱うためサーバーはない|
-|22|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー||ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた|
-|23|||7|資産運用アドバイスシステム|新規開発||プログラマー||ヘルプで入った|
+|22|2021/08|2024/12|4|金融取引システム|新規開発|WEB取引システムのフロント<br />WEB投資情報システムのフロント<br />Excelでの取引システム|プログラマー|サーバーサイド<ul><li>Windows Server</li><li>Internet Information Services</li><li>C#</li><li>.NET Core</li><li>ASP.NET Core</li><li>Open API Generator</li></ul>クライアントサイド<ul><li>HTML（ネイティブとReactが生成）</li><li>Sass（SCSS）</li><li>JavaScript</li><li>React</li><li>jQuery</li><li>bignumber.js</li></ul>|ヘルプで入ったが要件定義・基本設計・開発リーダーを行っていた<br />サーバーは他社連携部分のサーバーのみ<br />フロントはチャートの内部ロジック以外全て|
+|23|||7|資産運用アドバイスシステム|新規開発||プログラマー|クライアントサイド<ul><li>TypeScript</li><li>React</li><li>GraphQL</li></ul>|ヘルプで入った|
 |24|2022/02|2022/02|2|投資ツール|アップデート|CFD対応|プログラマー||No.21の案件と同じ|
 |25|2022/10|2023/05|2|金融向け顧客管理システム|リニューアル||プログラマー||ヘルプで入った|
 |26|2023/06|2024/01|8|衛星通信の位置情報セキュリティー|新規開発||なんだろう？||役に立てませんでした|
