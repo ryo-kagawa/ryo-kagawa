@@ -12,7 +12,7 @@
 - I'm currently learning English & SaaS on AWS
 
 ## 🌱 Skills
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=aws,babel,bash,c,bootstrap,c,cs,cpp,css,debian,discord,docker,dotnet,eclipse,electron,express,figma,gcp,git,github,githubactions,gitlab,gmail,go,gradle,grafana,graphql,gulp,html,idea,java,js,jenkins,jest,jquery,kafka,kotlin,kubernetes,less,linux,md,maven,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,powershell,prisma,prometheus,rails,react,redhat,redis,redux,regex,ruby,sass,spring,sqlite,selenium,svg,tailwind,twitter,ts,ubuntu,unity,vercel,visualstudio,vite,vscode,vue,webpack,webstorm,windows,yarn" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=aws,babel,bash,bootstrap,c,cs,cpp,css,debian,discord,docker,dotnet,eclipse,electron,express,figma,gcp,git,github,githubactions,gitlab,gmail,go,gradle,grafana,graphql,gulp,html,idea,java,js,jenkins,jest,jquery,kafka,kotlin,kubernetes,less,linux,md,maven,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,powershell,prisma,prometheus,rails,react,redhat,redis,redux,regex,ruby,sass,spring,sqlite,selenium,svg,tailwind,twitter,ts,ubuntu,unity,vercel,visualstudio,vite,vscode,vue,webpack,webstorm,windows,yarn" />
 
 ## 🏃‍♀️ Activities
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=ryo-kagawa&layout=compact&theme=transparent" />
