@@ -88,6 +88,7 @@
 |29|2024/05|2025/04|10|医療系|新規開発|LINEチャットボット<br />予約システム<br />AIチャットボット|プログラマー|開発環境<ul><li>Dev Container</li><li>MySQL</li><li>Turborepo</li></ul>インフラサイド<ul><li>AWS CDK</li><li>AWS S3</li><li>AWS CloudFront</li><li>AWS Lambda</li><li>AWS Cognito</li><li>AWS RDS（本番のみ）</li><li>AWS RDB（開発・検証のみ）</li></ul>サーバーサイド<ul><li>TypeScript</li><li>Next.js</li><li>openai-node</li></ul>クライアントサイド<ul><li>HTML（Next.jsで生成）</li><li></li><li>Tailwind</li><li>Next UI</li></ul>|新規開発から参画し、継続してアップデートを行った<br />インフラはサポート<br />Next.jsの実装はほぼ担当|
 |30|2024/08|2024/08|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|ヘルプで対応を行いました|
 |31|2024/12|2025/04|11|医療系|アップデート||プログラマー|サーバーサイド<ul><li>Go</li><li>MySQL</li></ul>クライアントサイド<ul><li>TypeScript</li><li>Vue</li><ul>|No.30の案件と同じ<br />ヘルプで対応を行いました|
+|32|2025/05||12||新規開発||プログラマー|Inno Setupを用いたインストーラー<br />インストーラー内で使用する外部アプリケーションをC#で作成||
 
 備考
 - 未記載の部分は書けない理由があります
